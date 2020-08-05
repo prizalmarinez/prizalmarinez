@@ -1,8 +1,8 @@
 ### Hi there, I'm Priz  👋
 
-## I'm a Full-Stack Web Developer, Photographer, and a little bit of Graphic designer!
+## I'm a Full-Stack Web Developer, Photographer, and Graphic designer!
 
-- 🔭 I’m currently working on my SASS Startup
+- 🔭 I’m currently working on my SASS Startup 
 - 🌱 I’m currently learning Javascript Frameworks 
 - 👯 I’m looking to collaborate on ReactJs 
 - 💬 Ask me about Anything
@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I love watching netflix/movies, reading manga/webtoon and playing games.
 
 
-### My Projects: :
+### My Projects: 🔥
 
-- [Instagram Clone][insta]
+- [Instagram Clone - AMA][insta]
 
 
 ### Connect with me:
