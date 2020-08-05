@@ -2,12 +2,12 @@
 
 ## I'm a Full-Stack Web Developer, Photographer, and Graphic designer!
 
-- 🔭 I’m currently working on my SASS Startup 
+- 🔭 I’m currently looking for a job and working on my Saas Startup 
 - 🌱 I’m currently learning Javascript Frameworks 
 - 👯 I’m looking to collaborate on ReactJs 
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email priz.almarinez@gmail.com / 09516489666 
-- ⚡ Fun fact: I love watching netflix/movies, reading manga/webtoon and playing games.
+- ⚡ Fun fact: I love watching Netflix/Movies, reading Manga/Webtoon and playing games.
 
 
 ### My Projects: 🔥
