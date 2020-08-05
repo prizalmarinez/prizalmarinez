@@ -1,6 +1,6 @@
 ### Hi there, I'm Priz  👋
 
-## I'm a Full-Stack Web Developer, Photographer, and a little bit of Graphic design!
+## I'm a Full-Stack Web Developer, Photographer, and a little bit of Graphic designer!
 
 - 🔭 I’m currently working on my SASS Startup
 - 🌱 I’m currently learning Javascript Frameworks 
