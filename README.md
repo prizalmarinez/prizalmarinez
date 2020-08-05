@@ -9,16 +9,17 @@
 - 📫 How to reach me: Email priz.almarinez@gmail.com / 09516489666 
 - ⚡ Fun fact: I love watching netflix/movies, reading manga/webtoon and playing games.
 
+
+### My Projects: :
+
+- [Instagram Clone][insta]
+
+
 ### Connect with me:
 
 [<img align="left" alt="prizalmarinez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="prizalmarinez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="prizalmarinez | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-
-
-### My Projects: :
-
-[Instagram Clone][insta]
 
 
 [facebook]: https://www.facebook.com/priz.louie.almarinez
